@@ -18,11 +18,8 @@ v0.1 aucune verification du bon demarrage pour le moment
 ```
 Vous devez renseigner le nom du pc que vous voulez lui donner ainsi que l adresse mac dans le fichier list
 Possibilité de d avoir plusieur pc de renseigné
-```
-```
 You: DEMARRE PC SYLVAIN
 Jarvis: démarrage en cours ...
 ```
-
 ## Author
 [sylvain35680]
