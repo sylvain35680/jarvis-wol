@@ -10,9 +10,10 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
+```
 Permet de demarrer un pc a distance.
 v0.1 aucune verification du bon demarrage pour le moment
-
+```
 ## Usage
 ```
 Vous devez renseigner le nom du pc que vous voulez lui donner ainsi que l adresse mac dans le fichier list
