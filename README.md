@@ -10,13 +10,16 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Description of your Plugin
+Permet de demarrer un pc a distance.
+v0.1 aucune verification du bon demarrage pour le moment
 
 ## Usage
 ```
-You: example of how to trigger the command
-Jarvis: output from Jarvis
+Vous devez renseigner le nom du pc que vous voulez lui donner ainsi que l adresse mac dans le fichier list
+Possibilité de d avoir plusieur pc de renseigné
+You: DEMARRE PC SYLVAIN
+Jarvis: démarrage en cours ...
 ```
 
 ## Author
-[your name](http://your.website)
+[sylvain35680]
